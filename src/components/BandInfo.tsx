@@ -35,7 +35,7 @@ export function BandInfo() {
       <div className="mt-16 p-8 border border-zinc-800 border-l-4 border-l-red-900 bg-zinc-950/50 rounded-r-2xl">
         <h4 className="text-lg font-bold text-zinc-200 mb-3 tracking-tight">팬덤 : ASH (애쉬)</h4>
         <p className="text-zinc-400 leading-relaxed text-sm">
-          인디 씬에서부터 오래 지켜본 <strong className="text-zinc-300">고인물 팬</strong>들이 주축을 이룬다. 
+          오래 지켜본 <strong className="text-zinc-300">고인물 팬</strong>들이 주축을 이룬다. 
           특히 밴드 멤버들 간의 <strong className="text-zinc-300">관계성</strong>에 깊이 과몰입하는 성향이 강하며, 
           그들이 만들어내는 유튜브 콘텐츠 '녹스끼리'를 통해 끈끈한 유대감을 형성하고 있다.
         </p>

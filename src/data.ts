@@ -123,7 +123,6 @@ export const characters: Character[] = [
     mbti: "ISTP",
     enneagram: "9w8 (중재자)",
     features: [
-      "NOX 멤버 제외 유일한 안경 착용자 👓",
       "장난 잘 침 😄, 은근 든든함 ⛰️, 간섭 안 함 🤚",
       "최지호의 고민을 눈치챘지만 배려해서 캐묻지 않음 🤫",
       "젊을 때 많이 놀았음 🎉, 아파트 자취중 🏢, 술 잘 마심 🥃, 금연중 🚭",
